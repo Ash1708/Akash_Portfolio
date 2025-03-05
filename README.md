@@ -2,7 +2,7 @@
 
 #[Project 1 : Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms]
 
-This is the Machine learning project I did it during my Internship
+##This is the Machine learning project I did it during my Internship
 
 * Data was taken from several elite European leagues over five seasons (2013/2014–2017/2018) obtained from Opta Sports.
 * Used Random undersampling to deal with class imbalance.
@@ -12,12 +12,16 @@ This is the Machine learning project I did it during my Internship
 
 
 
+
+
 #[Project 2: Exploratory Data Analysis of football player data_EA Sports]
 
 This was a part of my personnal project to explore EDA
 
 * Visualizations, summary statistics, Identifying and imputing missing data and checked for data quality problems.
 * Comparisons of various stats between players of similar playing positions.
+
+
 
 
 #[Project 3: A study on Javelin throw anaylsis using Inertial Measurement Units]
