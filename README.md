@@ -17,7 +17,7 @@
 
 #[Project 2: Exploratory Data Analysis of football player data_EA Sports]
 
-This was a part of my personnal project to explore EDA
+##This was a part of my personnal project to explore EDA
 
 * Visualizations, summary statistics, Identifying and imputing missing data and checked for data quality problems.
 * Comparisons of various stats between players of similar playing positions.
