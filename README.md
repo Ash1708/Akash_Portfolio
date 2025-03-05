@@ -2,7 +2,7 @@
 
 ## Project 1: Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms (https://github.com/Ash1708/Classification-of-Goalkeepers_ML)
 
-### This is the Machine Learning project I did during my Internship
+### This is the Machine Learning project I did during my Internship to classify goalkeepers based on their level of expertise using Machine learning Algorithms.
 
 
 * Data was taken from several elite European leagues over five seasons (2013/2014–2017/2018) obtained from Opta Sports.
