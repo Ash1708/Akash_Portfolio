@@ -1,6 +1,6 @@
 # Akash_Portfolio
 
-# Project 1: Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms
+## Project 1: Classification of Elite and Sub Elite Goalkeepers in professional men’s football using multiple machine learning algorithms (https://github.com/Ash1708/Classification-of-Goalkeepers_ML)
 
 ### This is the Machine Learning project I did during my Internship
 
@@ -15,7 +15,7 @@
 
 
 
-# Project 2: Exploratory Data Analysis of football player data_EA Sports
+## Project 2: Exploratory Data Analysis of football player data_EA Sports
 
 ### This was a part of my personnal project to explore EDA
 
@@ -25,7 +25,7 @@
 
 
 
-# Project 3: A study on Javelin throw anaylsis using Inertial Measurement Units
+## Project 3: A study on Javelin throw anaylsis using Inertial Measurement Units
 
 * Visualizations of Acceleration over time for various athletes.
 * Reliability and validation of Inertial Measurement system. (With force plates, motion capture systems (Vicon), and Optogait)
