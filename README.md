@@ -15,7 +15,7 @@
 
 
 
-## Project 2: Exploratory Data Analysis of football player data_EA Sports
+## Project 2: Exploratory Data Analysis of football player data_EA Sports (https://github.com/Ash1708/Exploratory-Data-Analysis_Football_Players/tree/main)
 
 ### This was a part of my personnal project to explore EDA
 
@@ -25,7 +25,9 @@
 
 
 
-## Project 3: A study on Javelin throw anaylsis using Inertial Measurement Units
+## Project 3: A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development (https://github.com/Ash1708/IMU_sensor_data/tree/main)
+
+### In this project, I have analysed the technical parameters of Javelin throw and plotte the EDA and checked the reliability of the IMU system, further developed into an application.
 
 * Visualizations of Acceleration over time for various athletes.
 * Reliability and validation of Inertial Measurement system. (With force plates, motion capture systems (Vicon), and Optogait)
