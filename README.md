@@ -34,7 +34,7 @@
 * Parameters analyzed : Stance duration, Step times, Stride Length, Stride time.
 
 
-## Project 4: Effects of Constrained small sided games on physical & technical variables on University football Players
+## Project 4: Effects of Constrained small sided games on physical & technical variables on University football Players (https://github.com/Ash1708/Soccer_Player_Analysis_GPS)
 
 #### Research Question : Does the manipulation of constraints in football SSG has any effect on physical & technical performances of University football players.
 
